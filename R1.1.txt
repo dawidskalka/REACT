@@ -1,0 +1,21 @@
+1.Jaką rolę pełni sekcja <head>, a jaką sekcja <body> dokumentu HTML?
+<head> — sekcja zawierająca informacje o dokumencie, które nie są wyświetlane bezpośrednio na stronie. 
+
+<body> — sekcja zawierająca widoczną treść strony 
+
+2.Czym różni się selektor klasy od selektora identyfikatora i w jakich sytuacjach stosujemy każdy z nich? 
+Selektor klasy — wskazuje elementy z atrybutem class, poprzedzony kropką, na przykład .przycisk. 
+
+Selektor identyfikatora — wskazuje element z atrybutem id, poprzedzony krzyżykiem, na przykład #menu. 
+
+3.Wymień cztery warstwy modelu pudełkowego, licząc od środka na zewnątrz. 
+content — właściwa treść (tekst, obraz). 
+
+padding — wewnętrzny odstęp między treścią a obramowaniem. 
+
+border — obramowanie pudełka. 
+
+margin — zewnętrzny odstęp oddzielający pudełko od sąsiadów. 
+
+4.Do czego służy atrybut for w znaczniku <label> i z jakim atrybutem pola się łączy? 
+Atrybuty id na polach łączymy z label przez atrybut for. 
